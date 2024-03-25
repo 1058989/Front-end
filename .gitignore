@@ -1,0 +1,5 @@
+
+*.vsidx
+*.txt
+OfferteGen/offertegen/obj/Debug/offertegen.esproj.CoreCompileInputs.cache
+OfferteGen/.vs/OfferteGen/v17/.suo
